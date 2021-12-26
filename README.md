@@ -1,2 +1,2 @@
 # wasm-life-of-game-docs-ja
-Rustのwasmようチュートリアルの和訳です
+Rustのwasm用チュートリアルの和訳です
