@@ -1,6 +1,8 @@
 # wasm-game-of-life-docs-ja
 Rustのwasm用チュートリアルの和訳です。<br/>
-
+<br/>
+google翻訳にお世話になりました。最後に章を追加して、機械翻訳を利用した際の注意点をまとめてみました。
+<br/>
 <div align="center">
 
   <h1>The Rust and WebAssembly Book</h1>
